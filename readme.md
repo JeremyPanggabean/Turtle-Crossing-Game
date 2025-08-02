@@ -3,7 +3,7 @@
 A classic arcade-style game built with Python's Turtle graphics library where you help a turtle safely cross a busy road filled with moving cars.
 
 ### Game Screenshot
-![Game Screenshot](https://raw.githubusercontent.com/JeremyPanggabean/Turtle-Crossing-Game/main/sample_games.jpg)
+![Game Screenshot](https://chatgpt.com/backend-api/estuary/content?id=file-GfwyKV29Wb4badY2b3Mqhf&ts=487255&p=fsns&cid=1&sig=5d3d18f8a0ae747ad875bfdd4deb898d99ca7998bc6a9763afb14cca129e337e)
 
 ## 🎮 Game Description
 
@@ -126,3 +126,4 @@ You can easily customize the game by modifying:
 
 
 Enjoy playing the Turtle Crossing Game! 🐢🚗💨
+
